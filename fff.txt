@@ -1,19 +1,21 @@
 <html>
-<title>Ferraris</title>
-<body>
-    <header style="background-color:darkred"><img src="https://i.pinimg.com/originals/4c/ab/f1/4cabf11ca2754891d4d9d20326eca835.png" height="100px"><h1 style="color:white; text-align:center">FERARI</h1></header>
-    <main style="background-color:#228B22">
-    <h1 style="color:white">Cтвореня Ferrari 375 America (1953–1955)</h1>
-    <p style="color:white">У 1950-х роках Ferrari активно розвивалася як компанія, здобуваючи репутацію виробника автомобілів для гоночних трас та для заможних клієнтів. Ferrari вже рекомендувала себе в автоспорті, зокрема у «Формулі 1» та інших перегонах, і прагнула розширити своє ім’я в сегменті розкішних туристичних автомобілів. Створення серії America було част</p>
-    <img src="https://www.europeanprestige.co.uk/blobs/stock/452/images/b1b90ce5-0304-4515-8947-e446232f45c9/hi4a0538.jpg?width=2000&height=1333"height="300px">
-    </main>
-    <main style="background-color:red">
-    <h1 style="color:yellow;">Ferrari 488 GTB</h1>
-    <p style="color:yellow; "> — суперкар с 3,9-литровым V8 двигателем с двойным турбонаддувом. Он сочетает в себе отличные динамические характеристики и роскошный дизайн.</p>
-     <img src="https://www.italpassion.fr/wp-content/uploads/2022/11/ferrari-vision-gt-3-scaled.jpg"height="300px">
-    </main>
-    <footer style="background-color:darkred">
-        <h1 style="text-align:center"><a href ="https://ru.wikipedia.org/wiki/Ferrari" style="color:white">Більше інформації</a></h1>
-    </footer>
-</body>
+    <body style="font-family:sans-serif; background-color:#32CD32">
+        <header style="background-color:#228B22">
+            <a href="#time" style="color:#800000">слідкуй за часом</a>
+            <h1 style="text-align:center"><img src="https://cdn-icons-png.flaticon.com/512/2972/2972528.png" height="50px"> Важливість часу</h1>
+        </header>
+        <main style="background-color:#90EE90">
+            <p style="color:#90EE90">
+                dfd
+            </p>
+            <p style = "text-align: center"><img src="https://obaninternational.com/wp-content/uploads/2023/06/Blog-image-time-across-cultures-copy.webp" width="650px"/></p>
+            <h1 style="color:#228B22; text-align:center;font-size:40px">час настільки швидкий ви навіть не уявляєте!</h1>
+            <p style="font-size:25px;text-align:center;">ви знаєте що поки ви це прочитали пройшла не одна секунда.<br/>цікаиві факти:<br/> Реальна тривалість доби насправді не 24 години!Ми вважаємо цілком очевидним, що тривалість доби становить 24 години, або час, витрачений Землею на повне обертання навколо себе. Насправді це не зовсім так. Фактичний вимір доби становить 23 години, 56 хвилин.</p>
+            <p style = "text-align: center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSedhiiQWllAsiLT0WzsuyOvCAMg3K9XOxWCw&s" width="650px"/></p>
+        </main>
+          <p style="font-size:25px;text-align:center;">Час — це ілюзія, створена людським розумом.<br/>Години йдуть за годинниковою стрілкою зліва направо — тому що саме в цьому напрямку рухається тінь сонячних годин.</p>
+        <footer style="color:#800000">
+            <p id="time">Час — дуже просте і водночас надзвичайно складне поняття.</p>
+        </footer>
+    </body>
 </html>
